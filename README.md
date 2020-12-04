@@ -1,5 +1,5 @@
 # SVD-Image-Compression
-A script utilizing singular value decomposition to alter a ```jpg``` image's compression.
+A script utilizing singular value decomposition to alter a ```.jpg``` image's compression.
 
 if ```A``` is an ```m × n``` real matrix with ```m > n```, then ```A``` can be rewritten by singular value decomposition of form ```A = U∑Vᵀ```, where the columns of ```U``` and ```Vᵀ``` are orthonormal and ```∑``` a diagonal matrix with positive real entries. 
 
