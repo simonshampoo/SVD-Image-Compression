@@ -6,3 +6,5 @@ if ```A``` is an ```m × n``` real matrix with ```m > n```, then ```A``` can be 
 The singular value decomposition is seen vastly in many fields of science including, but not limited to: computer vision, machine learning, signal processing, least squares regression, and much more. You can read more here: https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf
 
 I utilized core linear algebra concepts such as norm(Frobenius), single value decomposition, eigenvalues and eigenvectors, linear transformation theory, and more, and combined it with the expansive, and frankly wonderful, mathematical functionality of MATLAB. 
+
+![cutedogs]("C:\Users\simon\Documents\montage.jpg")
